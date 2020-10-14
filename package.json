@@ -1,5 +1,5 @@
 {
-  "name": "react-native-otp-verify",
+  "name": "@towbe/react-native-otp-verify",
   "version": "1.0.1",
   "description": "React native sms verification without additional permissions.",
   "main": "dist/index.js",
